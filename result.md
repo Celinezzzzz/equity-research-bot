@@ -1,5 +1,5 @@
 ## OpenAI Playground Testing and Demo Results:
 
-![Revenue Breakdown](./1.png1.png)
+![Result 1](./1.png)
 
-![Market Trends](./2.png2.png)
+![Result 2](./2.png)
